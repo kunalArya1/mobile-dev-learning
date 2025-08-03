@@ -1,0 +1,3 @@
+[submodule "01_helloWolrd_App"]
+	path = 01_helloWolrd_App
+	url = https://github.com/kunalArya1/firstMobileApp.git
