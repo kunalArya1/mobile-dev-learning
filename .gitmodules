@@ -1,3 +1,6 @@
 [submodule "01_helloWolrd_App"]
 	path = 01_helloWolrd_App
 	url = https://github.com/kunalArya1/firstMobileApp.git
+[submodule "02_imageCard_App"]
+	path = 02_imageCard_App
+	url = https://github.com/kunalArya1/secondMobileApp.git
