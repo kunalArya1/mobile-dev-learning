@@ -7,3 +7,6 @@
 [submodule "03_PasswordGeneratorApp"]
 	path = 03_PasswordGeneratorApp
 	url = https://github.com/kunalArya1/passwordGeneratorApp.git
+[submodule "04_stateManagementWithContext"]
+	path = 04_stateManagementWithContext
+	url = https://github.com/kunalArya1/stateManagementAppWithContext.git
