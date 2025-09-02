@@ -4,3 +4,6 @@
 [submodule "02_imageCard_App"]
 	path = 02_imageCard_App
 	url = https://github.com/kunalArya1/secondMobileApp.git
+[submodule "03_PasswordGeneratorApp"]
+	path = 03_PasswordGeneratorApp
+	url = https://github.com/kunalArya1/passwordGeneratorApp.git
