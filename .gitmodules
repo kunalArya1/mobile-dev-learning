@@ -10,3 +10,6 @@
 [submodule "04_stateManagementWithContext"]
 	path = 04_stateManagementWithContext
 	url = https://github.com/kunalArya1/stateManagementAppWithContext.git
+[submodule "05_stackNavigation"]
+	path = 05_stackNavigation
+	url = https://github.com/kunalArya1/stackNavigationApp.git
